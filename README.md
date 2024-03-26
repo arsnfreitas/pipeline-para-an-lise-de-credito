@@ -1,8 +1,9 @@
 # Ebac - Cientista Dados Projeto Final
 
-### Escorando o modelo gerado no Pycaret.
+### Modelo gerado no Pycaret.
 
 
 
-https://user-images.githubusercontent.com/95047780/206518183-e22318c0-1fcf-42db-b3e9-eaafb9b1e6fd.mov
+
+![projeto](https://github.com/arsnfreitas/pipeline-para-analise-de-credito/assets/105644294/bb2f074e-594b-4e42-b540-48d54a751f91)
 
